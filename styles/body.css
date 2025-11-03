@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: black;
+  background-color: white;
     height: 1000px;
   /* background: linear-gradient(90deg, #5c3b1e, white, #5c3b1e); */
 }
@@ -17,4 +17,5 @@ body {
 .fa-gem {
     margin-right: 0.5rem;
 }
+
 
